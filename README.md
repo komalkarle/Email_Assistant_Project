@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📧 AI Smart Email Assistant
 
 A beginner-friendly Streamlit application that automatically detects email types and generates professional replies without requiring any paid APIs.
@@ -128,3 +129,7 @@ Free to use and modify for personal/educational purposes.
 ---
 
 **Made with ❤️ using Streamlit | No APIs Required | Beginner-Friendly Python**
+=======
+# Email_Assistant_Project
+Email auto reply
+>>>>>>> b6986166d4cda7cdd3d84e1b70b036e35dbbc7af
